@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Hello.
+
+My name is Matt. I’m an Associate Professor Language & Technology and the Director of the Voice Technology MSc. at the University of Groningen Campus Fryslân. I am a linguist who works on voice technology, auditory perception, and minority languages. Check out my research, professional roles, and news. Connect with me here.
+
 
 You can use the [editor on GitHub](https://github.com/mattcoler/voicetech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
